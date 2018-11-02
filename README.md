@@ -2,12 +2,12 @@
 
 Library, Tools and Language
   
-  Python3
-  Numpy
-  Pandas
-  Matplotlib
-  sk-learn
-  Spyder
+ 	Python3
+ 	Numpy
+ 	Pandas
+ 	Matplotlib
+ 	sk-learn
+ 	pyder
   
 
 In this code i designed simple Linear Regression model for salary prediction based on Experience used by Linear Regression.
